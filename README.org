@@ -1,9 +1,18 @@
 #+OPTIONS: ^:nil
 
-* Curriculum_Vitae
-* Interests
-** From Nand to Tetris with Go
-[[https://github.com/Keisn1/nand-to-tetris-in-go][nand-to-tetris-in-go]]
-* 42 projects
-- [[https://github.com/Keisn1/libft][libft]]
+* 🛠 Curriculum_Vitae
+* 🌍 Interests
+** Emacs
+** Math
+** Sport
+
+
+* 📂 42 projects
+
+| *Rank 0* |                                                           |
+| [[https://github.com/Keisn1/libft][*libft*]]  | @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |
+* 📁 other projects
+- 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
+
+
 * Tutorials
