@@ -1,0 +1,9 @@
+#+OPTIONS: ^:nil
+
+* Curriculum_Vitae
+* Interests
+** From Nand to Tetris with Go
+[[https://github.com/Keisn1/nand-to-tetris-in-go][nand-to-tetris-in-go]]
+* 42 projects
+- [[https://github.com/Keisn1/libft][libft]]
+* Tutorials
