@@ -9,10 +9,17 @@
 
 * 📂 42 projects
 
-| *Rank 0* |                                                           |
-| [[https://github.com/Keisn1/libft][*libft*]]  | @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |
+| *Rank 0*                                                    |   |   |
+|-----------------------------------------------------------+---+---|
+| [[https://github.com/Keisn1/libft][*libft*]]                                                   |   |   |
+| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |   |   |
+|-----------------------------------------------------------+---+---|
+| *Rank 1*                                                    |   |   |
+|-----------------------------------------------------------+---+---|
+| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                               |   |   |
+| @@markdown:![libft-bonus](./imgs/ft_printfm.png)@@        |   |   |
+
 * 📁 other projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
-
 
 * Tutorials
