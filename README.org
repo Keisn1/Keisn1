@@ -1,4 +1,4 @@
-#+OPTIONS: ^:nil
+#+OPTIONS: ^:nil title:nil
 
 * 🛠 Curriculum_Vitae
 * 🌍 Interests
@@ -9,15 +9,16 @@
 
 * 📂 42 projects
 
-| *Rank 0*                                                    |   |   |
-|-----------------------------------------------------------+---+---|
-| [[https://github.com/Keisn1/libft][*libft*]]                                                   |   |   |
-| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |   |   |
-|-----------------------------------------------------------+---+---|
-| *Rank 1*                                                    |   |   |
-|-----------------------------------------------------------+---+---|
-| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                               |   |   |
-| @@markdown:![libft-bonus](./imgs/ft_printfm.png)@@        |   |   |
+| *Rank 0*                                                    |                                                        |   |
+|-----------------------------------------------------------+--------------------------------------------------------+---|
+| [[https://github.com/Keisn1/libft][*libft*]]                                                   |                                                        |   |
+| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |                                                        |   |
+|-----------------------------------------------------------+--------------------------------------------------------+---|
+| *Rank 1*                                                    |                                                        |   |
+|-----------------------------------------------------------+--------------------------------------------------------+---|
+| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                               | [[https://github.com/Keisn1/get-next-line][*get_next_line*]]                                        |   |
+| @@markdown:![libft-bonus](./imgs/ft_printfm.png)@@        | @@markdown:![libft-bonus](./imgs/get_next_linem.png)@@ |   |
+|                                                           |                                                        |   |
 
 * 📁 other projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
