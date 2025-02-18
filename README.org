@@ -8,19 +8,20 @@
 
 
 * 📂 42 projects
+Thanks to [[https://github.com/doooriian][dooorian]] for the [[https://github.com/doooriian/42-Badges][badges]]!
 
-| *Rank 0*                                                    |                                                        |   |
-|-----------------------------------------------------------+--------------------------------------------------------+---|
-| [[https://github.com/Keisn1/libft][*libft*]]                                                   |                                                        |   |
-| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |                                                        |   |
-|-----------------------------------------------------------+--------------------------------------------------------+---|
-| *Rank 1*                                                    |                                                        |   |
-|-----------------------------------------------------------+--------------------------------------------------------+---|
-| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                               | [[https://github.com/Keisn1/get-next-line][*get_next_line*]]                                        |   |
-| @@markdown:![libft-bonus](./imgs/ft_printfm.png)@@        | @@markdown:![libft-bonus](./imgs/get_next_linem.png)@@ |   |
-|                                                           |                                                        |   |
+| *Rank 0*                                                    |                                                      |                                                    |
+|-----------------------------------------------------------+------------------------------------------------------+----------------------------------------------------|
+| [[https://github.com/Keisn1/libft][*libft*]]                                                   |                                                      |                                                    |
+| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@ |                                                      |                                                    |
+|-----------------------------------------------------------+------------------------------------------------------+----------------------------------------------------|
+| *Rank 1*                                                    |                                                      |                                                    |
+|-----------------------------------------------------------+------------------------------------------------------+----------------------------------------------------|
+| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                               | [[https://github.com/Keisn1/get-next-line][*get_next_line*]]                                      | [[https://github.com/Keisn1/Born2BeRoot][born 2 be root]]                                     |
+| @@markdown:![ft_printf-bonus](./imgs/ft_printfm.png)@@    | @@markdown:![gnl-bonus](./imgs/get_next_linem.png)@@ | @@markdown:![b2b-bonus](./imgs/born2berootm.png)@@ |
 
 * 📁 other projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
+
 
 * Tutorials
