@@ -2,9 +2,9 @@
 
 * 🛠 Curriculum_Vitae
 * 📂 [[https://github.com/Keisn1/Keisn1/tree/main/42_projects][42 projects]]
-* 📁 other projects
+* 📁 Other Projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
-* 🤓 Tutorials
+* 🤓 Online Courses/Tutorials
 * 🌍 Interests
 ** Emacs
 ** Math

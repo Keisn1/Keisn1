@@ -20,6 +20,6 @@ Thanks to [[https://github.com/ayogun][ayogun]] for the [[https://github.com/ayo
 |--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
 | *Rank 3*                                                       |                                                        |                                                    |
 |--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| [[https://github.com/Keisn1/philosophers][Philosophers]]                                                 | [[https://github.com/Keisn1/minishell][*Minishell*]]                                            |                                                    |
+| [[https://github.com/Keisn1/philosophers][*Philosophers*]]                                               | [[https://github.com/Keisn1/minishell][*Minishell*]]                                            |                                                    |
 | @@markdown:![philosophers-bonus](./imgs/philosophersm.png)@@ | @@markdown:![minishell-bonus](./imgs/minishellm.png)@@ |                                                    |
 
