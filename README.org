@@ -1,37 +1,11 @@
 #+OPTIONS: ^:nil title:nil
 
 * 🛠 Curriculum_Vitae
+* 📂 [[https://github.com/Keisn1/Keisn1/tree/main/42_projects][42 projects]]
+* 📁 other projects
+- 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
+* 🤓 Tutorials
 * 🌍 Interests
 ** Emacs
 ** Math
 ** Sport
-
-
-* 📂 42 projects
-Thanks to [[https://github.com/ayogun][ayogun]] for the [[https://github.com/ayogun/42-project-badges/tree/main][badges/covers]]!
-
-| *Rank 0*                                                       |                                                        |                                                    |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| [[https://github.com/Keisn1/libft][*libft*]]                                                      |                                                        |                                                    |
-| @@markdown:![libft-bonus](./imgs/libft_bonus_badge.png)@@    |                                                        |                                                    |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| *Rank 1*                                                       |                                                        |                                                    |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| [[https://github.com/Keisn1/ft_printf][*ft_printf*]]                                                  | [[https://github.com/Keisn1/get-next-line][*get_next_line*]]                                        | [[https://github.com/Keisn1/Born2BeRoot][*Born 2 be Root*]]                                   |
-| @@markdown:![ft_printf-bonus](./imgs/ft_printfm.png)@@       | @@markdown:![gnl-bonus](./imgs/get_next_linem.png)@@   | @@markdown:![b2b-bonus](./imgs/born2berootm.png)@@ |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| *Rank 2*                                                       |                                                        |                                                    |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| [[https://github.com/Keisn1/push-swap][*Push Swap*]]                                                  | [[https://github.com/Keisn1/minitalk][*Minitalk*]]                                             | [[https://github.com/Keisn1/fdf][*Fil de Fer (fdf)*]]                                 |
-| @@markdown:![push_swap-bonus](./imgs/push_swapm.png)@@       | @@markdown:![minitalk-bonus](./imgs/minitalkm.png)@@   | @@markdown:![fdf-bonus](./imgs/fdfm.png)@@         |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| *Rank 3*                                                       |                                                        |                                                    |
-|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
-| [[https://github.com/Keisn1/philosophers][Philosophers]]                                                 | [[https://github.com/Keisn1/minishell][*Minishell*]]                                            |                                                    |
-| @@markdown:![philosophers-bonus](./imgs/philosophersm.png)@@ | @@markdown:![minishell-bonus](./imgs/minishellm.png)@@ |                                                    |
-
-* 📁 other projects
-- 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
-
-
-* Tutorials
