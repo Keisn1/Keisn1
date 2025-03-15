@@ -22,4 +22,8 @@ Thanks to [[https://github.com/ayogun][ayogun]] for the [[https://github.com/ayo
 |--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
 | [[https://github.com/Keisn1/philosophers][*Philosophers*]]                                               | [[https://github.com/Keisn1/minishell][*Minishell*]]                                            |                                                    |
 | @@markdown:![philosophers-bonus](./imgs/philosophersm.png)@@ | @@markdown:![minishell-bonus](./imgs/minishellm.png)@@ |                                                    |
-
+|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
+| *Rank 4*                                                       |                                                        |                                                    |
+|--------------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------|
+| [[https://github.com/obluda2173/miniRT][*miniRT*]]                                                     |                                                        |                                                    |
+| @@markdown:![philosophers-bonus](./imgs/minirtm.png)@@       |                                                        |                                                    |
