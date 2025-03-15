@@ -7,13 +7,15 @@
 - 🤖 [RAG built during KI Hackathon
   Wolfsburg](https://github.com/Keisn1/buergerservice-rag-hackathon)
 
-# 🤓 Online Courses/Tutorials
+# 🤓 Other Projects/Studies
 
 - 📐 [Learn Go with Tests](https://github.com/Keisn1/LearnGoWithTests),
   [Learn Go with tests
-  Application](https://github.com/Keisn1/LearnGoWithTestsApplication)
+  Application](https://github.com/Keisn1/LearnGoWithTestsApplication),
+  [Gophercises](https://github.com/Keisn1/gophercises)
 - 🌎 [Web Development with
-  Go](https://github.com/Keisn1/web-dev-with-go)
+  Go](https://github.com/Keisn1/web-dev-with-go), [Advent of Code with
+  Go - 2023](https://github.com/Keisn1/advent-of-code-2023)
 - 📏 [TDD - Load balancer in
   python](https://github.com/Keisn1/load-balancer-python), [Test-Driven
   Development with Django, Django REST Framework, and
