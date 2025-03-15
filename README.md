@@ -11,11 +11,11 @@
 
 - 📐 [Learn Go with Tests](https://github.com/Keisn1/LearnGoWithTests),
   [Learn Go with tests
-  Application](https://github.com/Keisn1/LearnGoWithTestsApplication),
-  [Gophercises](https://github.com/Keisn1/gophercises)
+  Application](https://github.com/Keisn1/LearnGoWithTestsApplication)
 - 🌎 [Web Development with
   Go](https://github.com/Keisn1/web-dev-with-go), [Advent of Code with
-  Go - 2023](https://github.com/Keisn1/advent-of-code-2023)
+  Go - 2023](https://github.com/Keisn1/advent-of-code-2023),
+  [Gophercises](https://github.com/Keisn1/gophercises)
 - 📏 [TDD - Load balancer in
   python](https://github.com/Keisn1/load-balancer-python), [Test-Driven
   Development with Django, Django REST Framework, and
