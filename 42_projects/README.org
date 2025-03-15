@@ -3,6 +3,8 @@
 * 📂 42 projects
 Thanks to [[https://github.com/ayogun][ayogun]] for the [[https://github.com/ayogun/42-project-badges/tree/main][badges/covers]]!
 
+[[https://github.com/Keisn1/C-piscine-42][C piscine 42]]
+
 | *Rank 0*                                                       |                                                        |                                                             |
 |--------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------|
 | [[https://github.com/Keisn1/libft][*libft*]]                                                      |                                                        |                                                             |

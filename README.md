@@ -20,3 +20,5 @@
   python](https://github.com/Keisn1/load-balancer-python), [Test-Driven
   Development with Django, Django REST Framework, and
   Docker](https://github.com/Keisn1/tdd-django-rest?tab=readme-ov-file)
+- 🧑‍💻 [ansible setup arch
+  linux](https://github.com/Keisn1/my-ansible-setup)

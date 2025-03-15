@@ -8,3 +8,4 @@
 - 📐 [[https://github.com/Keisn1/LearnGoWithTests][Learn Go with Tests]], [[https://github.com/Keisn1/LearnGoWithTestsApplication][Learn Go with tests Application]]
 - 🌎 [[https://github.com/Keisn1/web-dev-with-go][Web Development with Go]], [[https://github.com/Keisn1/advent-of-code-2023][Advent of Code with Go - 2023]], [[https://github.com/Keisn1/gophercises][Gophercises]]
 - 📏 [[https://github.com/Keisn1/load-balancer-python][TDD - Load balancer in python]], [[https://github.com/Keisn1/tdd-django-rest?tab=readme-ov-file][Test-Driven Development with Django, Django REST Framework, and Docker]]
+- 🧑‍💻 [[https://github.com/Keisn1/my-ansible-setup][ansible setup arch linux]]
