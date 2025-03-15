@@ -3,6 +3,8 @@
 * 📂 [[https://github.com/Keisn1/Keisn1/tree/main/42_projects][42 projects]]
 * 📁 Projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
+- 🤖 [[https://github.com/Keisn1/buergerservice-rag-hackathon][RAG built during KI Hackathon Wolfsburg]]
 * 🤓 Online Courses/Tutorials
 - 📐 [[https://github.com/Keisn1/LearnGoWithTests][Learn Go with Tests]], [[https://github.com/Keisn1/LearnGoWithTestsApplication][Learn Go with tests Application]]
-- 🤖 [[https://github.com/Keisn1/buergerservice-rag-hackathon][RAG built during KI Hackathon Wolfsburg]]
+- 🌎 [[https://github.com/Keisn1/web-dev-with-go][Web Development with Go]]
+- 📏 [[https://github.com/Keisn1/load-balancer-python][TDD - Load balancer in python]], [[https://github.com/Keisn1/tdd-django-rest?tab=readme-ov-file][Test-Driven Development with Django, Django REST Framework, and Docker]]
