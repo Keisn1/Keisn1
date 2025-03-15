@@ -4,4 +4,5 @@
 * 📁 Projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
 * 🤓 Online Courses/Tutorials
+- 📐 [[https://github.com/Keisn1/LearnGoWithTests][Learn Go with Tests]], [[https://github.com/Keisn1/LearnGoWithTestsApplication][Learn Go with tests Application]]
 - 🤖 [[https://github.com/Keisn1/buergerservice-rag-hackathon][RAG built during KI Hackathon Wolfsburg]]
