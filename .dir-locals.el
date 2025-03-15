@@ -1,11 +1,15 @@
-;;; Directory Local Variables            -*- no-byte-compile: t -*-
-;;; For more information see (info "(emacs) Directory Variables")
-
 ((org-mode . ((eval . (add-hook 'after-save-hook
-								(lambda nil
-								  (when
-									  (string-equal
-									   (file-name-nondirectory buffer-file-name)
-									   "README.org")
-									(org-pandoc-export-to-gfm)))
-								nil t)))))
+                                (lambda nil
+                                  (when
+                                      (string-equal
+                                       (file-name-nondirectory buffer-file-name)
+                                       "README.org")
+                                    (org-pandoc-export-to-gfm)
+                                    (with-temp-buffer
+                                      (insert-file-contents "README.md")
+                                      (goto-char (point-min))
+                                      (when (re-search-forward "^---\n\\(.*\n\\)+---\n" nil t)
+                                        (replace-match "" nil nil))
+                                      (write-region (point-min) (point-max) "README.md"))
+                                    ))
+                                nil t)))))
