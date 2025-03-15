@@ -1,6 +1,7 @@
 #+OPTIONS: ^:nil title:nil
 
 * 📂 [[https://github.com/Keisn1/Keisn1/tree/main/42_projects][42 projects]]
-* 📁 Other Projects
+* 📁 Projects
 - 💻 [[https://github.com/Keisn1/nand-to-tetris-in-go][From Nand to Tetris with Go]]
 * 🤓 Online Courses/Tutorials
+- 🤖 [[https://github.com/Keisn1/buergerservice-rag-hackathon][RAG built during KI Hackathon Wolfsburg]]
