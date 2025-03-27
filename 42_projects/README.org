@@ -28,5 +28,15 @@ Thanks to [[https://github.com/ayogun][ayogun]] for the [[https://github.com/ayo
 | *Rank 4*                                                       |                                                        |                                                             |
 |--------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------|
 | [[https://github.com/obluda2173/miniRT][*miniRT*]]                                                     | [[https://github.com/Keisn1/CPP-modules-42][*CPP-modules*]] (in progress)                            | [[https://github.com/Keisn1/net-practice.git][*net-practice*]] (in progress)                                |
-| @@markdown:![minirt-bonus](./imgs/minirtm.png)@@             | @@markdown:![cpp-bonus](./imgs/cppm.png)@@             | @@markdown:![philosophers-bonus](./imgs/netpracticem.png)@@ |
+| @@markdown:![minirt-bonus](./imgs/minirtm.png)@@             | @@markdown:![cpp-bonus](./imgs/cppm.png)@@             | @@markdown:![netpractice-bonus](./imgs/netpracticem.png)@@ |
 
+| *Rank 4*                                                     | Description                                      |
+|------------------------------------------------------------+--------------------------------------------------|
+| [[https://github.com/obluda2173/miniRT][*miniRT*]]                                                   |                                                  |
+| @@markdown:![minirt-bonus](./imgs/minirtm.png)@@           | Raytracer                                        |
+|------------------------------------------------------------+--------------------------------------------------|
+| [[https://github.com/Keisn1/CPP-modules-42][*CPP-modules*]] (in progress)                                | Building knowledge about C++, Classes, Templates |
+| @@markdown:![cpp-bonus](./imgs/cppm.png)@@                 |                                                  |
+|------------------------------------------------------------+--------------------------------------------------|
+| [[https://github.com/Keisn1/net-practice.git][*net-practice*]] (in progress)                               |                                                  |
+| @@markdown:![netpractice-bonus](./imgs/netpracticem.png)@@ |                                                  |

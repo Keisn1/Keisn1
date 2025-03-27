@@ -1,3 +1,7 @@
+---
+author: Kay Freyer
+---
+
 # 📂 42 projects
 
 Thanks to [ayogun](https://github.com/ayogun) for the
@@ -20,4 +24,13 @@ Thanks to [ayogun](https://github.com/ayogun) for the
 | ![philosophers-bonus](./imgs/philosophersm.png)            | ![minishell-bonus](./imgs/minishellm.png)                                 |                                                                              |
 | **Rank 4**                                                 |                                                                           |                                                                              |
 | [**miniRT**](https://github.com/obluda2173/miniRT)         | [**CPP-modules**](https://github.com/Keisn1/CPP-modules-42) (in progress) | [**net-practice**](https://github.com/Keisn1/net-practice.git) (in progress) |
-| ![minirt-bonus](./imgs/minirtm.png)                        | ![cpp-bonus](./imgs/cppm.png)                                             | ![philosophers-bonus](./imgs/netpracticem.png)                               |
+| ![minirt-bonus](./imgs/minirtm.png)                        | ![cpp-bonus](./imgs/cppm.png)                                             | ![netpractice-bonus](./imgs/netpracticem.png)                                |
+
+| **Rank 4**                                                                   | Description                                      |
+|------------------------------------------------------------------------------|--------------------------------------------------|
+| [**miniRT**](https://github.com/obluda2173/miniRT)                           |                                                  |
+| ![minirt-bonus](./imgs/minirtm.png)                                          | Raytracer                                        |
+| [**CPP-modules**](https://github.com/Keisn1/CPP-modules-42) (in progress)    | Building knowledge about C++, Classes, Templates |
+| ![cpp-bonus](./imgs/cppm.png)                                                |                                                  |
+| [**net-practice**](https://github.com/Keisn1/net-practice.git) (in progress) |                                                  |
+| ![netpractice-bonus](./imgs/netpracticem.png)                                |                                                  |
