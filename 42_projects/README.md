@@ -1,7 +1,3 @@
----
-author: Kay Freyer
----
-
 # 📂 42 projects
 
 Thanks to [ayogun](https://github.com/ayogun) for the
